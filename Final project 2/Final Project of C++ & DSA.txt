@@ -1,0 +1,297 @@
+Final Project of C++ & DSA
+
+
+
+
+
+1. DSA = data structures & Algorithms 
+
+2. OOPS = Object Oriented Program 
+
+3. Types of DS:
+   1 Problem Solving
+   2 Algorithm Design
+   3 Code Optimization
+   4 Resource Management
+   5 Programming Interviews
+   6 Efficient Programming 
+   7 Critical Thinking
+   8 Career Advancement
+
+4. Steps of Programming?
+   1 Problem Definition
+   2 Algorithm Design
+   3 Coding
+   4 Compilation
+   5 Testing
+   6 Debugging 
+   7 Documentation
+   8 Maintenance
+
+5. C++ language is developed in 1979 at bell laboratory of American telephone and telegraph located in U.S.A.
+
+6. C++ translator is compiler and interpreter
+
+7. compiler is covert whole program into binary.
+
+8. interpreter is convert line by line program into binary.
+
+9. What is Data Structure?
+   A data structure is a way of organizing and storing data in computer.
+
+10. What is algorithm?
+   An algorithm is a step-by-step procedure or formula  for solving a problem.
+
+11. Algorithm:-
+    INPUT -> set of rules to obtain desired output from given input -> output.
+
+12. Importance of DSA.
+   It is field of study in computer science that deals with the design, analysis, and implementation of efficient algorithms and data structures to solve complex computational        problems.
+
+13. What is Programming?
+   A set of instructions for computer to perform specific tasks and solve problems.
+
+14. How many ways to programming impacts your world.
+   1 from the websites you visit.
+   2 the apps you use.
+   3 to the games you play and the AI assistants you interact with.
+
+15. Importance of C++.
+   C++ is a powerful and versatile language with a crucial role in various industries.
+
+16. Importance of C++.
+   1 Performance and Efficiency
+   2 Versatility and General-Purpose Nature
+   3 Object-Oriented Programming (OOP) Support
+   4 Large and Active Community 
+   5 Legacy Codebase and Compatibility
+   6 Low-level language(System hardware accessibility)
+
+17. C++ is Compiler based Programming language.
+
+18. Difference between compiler and interpreter:-
+   
+  -> COMPILER                                         
+ 1  It takes an entire program at a time.            
+ 2  It generates intermediate object code.
+ 3  comparatively faster.
+ 4  difficult.
+ 5  The compilation is done before execution.
+
+  -> INTERPRETER
+ 1  It takes a single line of code or instruction at a time.
+ 2  It does not produce any intermediate object code.
+ 3  Slower.
+ 4  Easier comparatively.  
+ 5  Compilation and execution take place simultaneously.
+
+19. What is Constant?
+   A constant is a kind of variable which value is fixed after initialization.
+   Constant always keeps value unchanged.
+   Constant value can't be changed.
+
+20. What is cout object?
+   The cout object in C++ is a object of class iostream which is defined in iostream hedar file.
+   It is used to display the output to the console.
+           cout << msg;
+           cout << variable 
+
+21. what is cin object?
+   The cin object in C++ is an object of class iostream  which is defined in iostream header file.
+   It is used to accept the input from the standard input device i.e. keyboard.
+           cin >> variable;
+
+22. What is endl manipulator?
+   The endl stands for end of line.
+   The use of the endl manipulator takes place to move the cursor to the beginning of the next line.
+           cin >> msg >> endl;
+
+23. What is operator?
+   An operator is a symbol that represents a specific operation on one or more operands.
+
+24. Types of Operators
+  1 Arithmetic Operators(+,-,*,/,%)
+  2 Relational Operators(<,<=,>,>=,==,!=)
+  3 Logical Operators(&&,||,!)
+  4 Assignment Operators(=,+=,-=,*=,/=,%=)
+  5 Miscellaneous Operators(?:,sizeof,*,&)
+  6 Unary Operators(++,--)
+
+25. What is Operator Precedence?
+   Operator precedence in C determines the order in which operators are evaluated when an expression contains multiple operators.
+
+26. What is type conversion?
+   Type conversion in C++ language also known as type casting, refers to the process of converting a value from one data type to another.
+
+27. Types of type conversion
+   1 Implicit type(Type Coercion)
+   2 Explicit type(Type Casting) 
+
+28. Implicit Type conversion
+   Implicit type conversion is performed by the compiler automatically during compilation.
+
+29. Explicit type convention
+   Explicit type conversion, or type casting, is done by the programmer explicitly using casting operators.
+
+30. What is control Structure?
+   A control structure is a block of code that manages the flow of execution in a program.
+
+31. Types of control structure 
+   1 Sequential Structure
+   2 Selection Structure
+   3 Repetition Structure
+
+32. What is Sequential Structure?
+   The default structure where Statements are executed one after the other in sequence.
+
+33. What is Selection Structure?
+   Allows the program to make decision and Execute different blocks of code based on specified conditions.
+
+34. What is repetition structure?
+   Allows the execution of a block of code repeatedly as long as a specified condition is true.
+
+35. Selection structure
+   1 if statement
+   2 if else statement
+   3 ladder statement
+   4 nested statement 
+   5 ternary statement 
+   6 switch case
+ 
+36. Repetition structure
+   1 entry control loop
+     - while loop
+     - for loop
+   2 Exit control loop
+     - do while loop 
+
+37. What is Flowchart?
+   A flowchart is a graphical representation of a process or algorithm.
+
+38. Key elements of Flowchart
+   1 Shapes
+     - Oval
+     - Rectangle
+     - Diamond
+     - Parallelogram
+   2 Arrows & Lines
+     - Arrows connecting different shapes show the sequence and direction of steps in the process.
+   3 Connectors
+    - Small, labeled circles or rectangles can be used to connect lines, indicating that the flow continues on another part of the page. 
+
+39. What is Ternary Statement?
+   The ternary Operator, also known as the conditional operator, is a shorthand way of writing an if-else statement.
+   Ternary operator is denoted by ?:
+
+40. What is Switch Statement?
+    The Switch statement is a control flow statement that allows a variable to be tested for equality against a list of values.
+
+41. What is Pattern?
+   A "pattern" is a specific arrangement of characters or symbols in a systematic and predictable manner.
+  - Creating shapes, 
+  - printing formatted outputs,
+  - recognizing specific sequence of characters.
+ 
+42. Categories of Patterns
+   1 Number pattern 
+   2 Character Pattern
+   3 Symbol Pattern
+ 
+43. Types of Patterns
+   1 without Space
+   2 With Space
+   3 Custom Pattern
+
+44. What is Structure of Pattern?
+   Any type of pattern can be done using the coding structure of Nested loop.
+
+45. Note that,
+   - Outer loop always iterates for Rows.
+   - Inner loop always iterates for Columns.
+
+46. How to solve any Pattern?
+   1 Divide a pattern inti row and column
+   2 Analyze the given Pattern
+   3 Make a code
+
+47. What is Array?
+   An array is a collection of Elements of the same data type.
+
+48. Types of Array
+   - One Dimensional Array
+   - Multi Dimensional Array
+
+49. What is 1D Array?
+   A one-dimensional array is a collection of elements of the same data type arranged in a linear sequence.
+
+50. What is For each loop?
+   The "for each " loop is known as the "Range-based for loop".
+
+51. Advantage of Foe each loop
+   The range-based for loop abstracts away the complexity of managing iterators and provides a more readable and concise syntax for iterating over collections in C++.
+
+52. What is sizeof() Operator?
+   The sizeof operator in C is used to determine the size, in bytes, of a data type or an object.
+
+53. What is CRUD Operations
+   C- Create / Insert
+   R- Read / Access / Fetch / Select / Iterate
+   U- Update
+   D- Delete
+
+54. What is 2D Array?
+   A 2D Array is a data structure that represents a table or a matrix with rows and columns.
+
+55. What is Function?
+   A function is a self-contained block of code that performs a specific task.
+
+56. Types of functions
+   1 Built-in Functions
+   2 User Defined Function(UDF)
+
+57. UDF- user define Function
+  
+58. Types of UDF
+   1 TNRN - Take Nothing, Return Nothing.
+   2 TNRS - Take Nothing, Return Something.
+   3 TSRN - Take Something, Return Nothing.
+   4 TSRS - Take Something, Return Something.
+
+59. What is Nested Function?
+   A nested function usually refers to a function that is defined within another function.
+
+60. What is Recursion?
+   Recursion is a programming concept in which a function calls itself directly or indirectly in order to solve a problem.
+
+61. What is Pointer?
+  A Pointer is a variable which holds a memory address of another variable.
+
+63. What is Pointer of Array?
+   Array of Pointer means we have to create an array of multiple Pointers.
+
+64. What is Chain of Pointer?
+   A Pointer to a Pointer is a concept where a pointer variable holds the address of another pointer variable.
+
+65. What is Reference Variable?
+   A reference variable is an alias or alternative name for an existing variable.
+
+66. Argument Passing
+   1 Passing a value or a simple variable
+   2 Passing an array
+   3 Passing a pointer
+   4 Passing an address
+
+67. Function calling
+   1 Call by Value
+   2 Call by Reference
+   3 Call by Const Reference
+
+68. What is Data Encapsulation?
+   The meaning of Encapsulation is to make sure that "Sensitive" data is hidden from users.
+
+69. Types of Data Encapsulation 
+   1 Setter
+   2 Getter
+
+70.
+   
